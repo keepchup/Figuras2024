@@ -55,4 +55,6 @@ public class Main {
         figura9.setNombre("Octagono 1");
     }
 //ME LA COMES
+
+    // Pero io no me ahuevo cuando me dan señales obvias *forced smile*
 }
