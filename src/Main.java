@@ -53,6 +53,7 @@ public class Main {
 
         Octagono figura9 = new Octagono(6);
         figura9.setNombre("Octagono 1");
+        System.out.println("Me la pelan, no me explican desgravciaos");
     }
 //ME LA COMES
 
