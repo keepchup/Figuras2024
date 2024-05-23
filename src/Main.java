@@ -1,6 +1,9 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Hola mundo");
+        System.out.println("Primer cambio");
+
         Scanner sc = new Scanner(System.in);
         Figura_Geometrica figura1 = new Figura_Geometrica();
         Cuadrilateros figura2 = new Cuadrilateros();
