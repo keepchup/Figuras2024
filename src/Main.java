@@ -54,5 +54,5 @@ public class Main {
         Octagono figura9 = new Octagono(6);
         figura9.setNombre("Octagono 1");
     }
-
+//ME LA COMES
 }
