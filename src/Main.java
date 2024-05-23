@@ -58,5 +58,5 @@ public class Main {
 
     // Pero io no me ahuevo cuando me dan señales obvias *forced smile*
 
-    // Prueba mnuevos cambios
+    // Cambios nuevos
 }
